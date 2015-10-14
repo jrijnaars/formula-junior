@@ -1,0 +1,20 @@
+.rightside {
+	clear:both;
+	margin-left:10px;
+	
+}
+.rightside img {
+	float:right;
+	
+}
+.leftside{
+	clear:both;
+	margin-left:10px;
+}
+.leftside img{
+	float:left;
+	margin-right:10px;
+}
+.tekst {
+	margin:30px 0px 30px 30px;
+}

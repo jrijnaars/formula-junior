@@ -1,0 +1,45 @@
+.header1 h1 {
+	font-weight: 400;
+	font-size:24px;
+	letter-spacing:4.8px;
+	font-style: normal;
+	color:#ffcc00;
+	margin:0px 0px 0px 0px;
+}
+.header1 h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	letter-spacing:4.8px;
+	font-style: normal;
+	margin-top:-5px;
+	font-size:12px;
+	color:#fb9933;
+	padding-top:0;
+}
+.header1 {
+	background-color:#3366cc;
+	margin:0px;
+	padding-bottom:0;
+	padding-top:30px;
+	width:100%;
+	height:80px;
+}
+.h1tekst {
+	width:780px;
+	background-color:#3366cc;
+	margin:0 auto;
+}
+.yellowbar {
+	letter-spacing:2.4px;
+	background-color:#ffcc00;
+	width:100%;
+	padding-bottom:2px;
+	border-top:solid 1px;
+	border-bottom:solid 1px;
+}
+.yellowbar a {
+	font-size:10px;
+	text-decoration:none;
+	margin-left:5px;
+	padding-top:3px;
+}

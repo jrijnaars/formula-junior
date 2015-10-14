@@ -1,0 +1,93 @@
+html, body {
+	height: 100%;
+	min-width:1000px;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	background-color:#e6f3ff;
+}
+body, h1, h2, h3, p, form {
+	margin: 0;
+	padding: 0;
+	margin:0 auto;
+}
+.container {
+	width:100%;
+   min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -48px
+}
+.left {
+	float:left;
+	background-color:#e6f3ff;
+	color:#003366;
+	padding-left:0;
+	z-index:2
+}
+.midden {
+	min-width:1200px;
+}
+.right {
+	float:left;
+	background-color:#c0dffd;
+	color:#003366;
+	width:85%;
+}
+.right h2 {
+	color:
+	
+}
+.contend {
+	padding-left:0px;
+	padding-top:0px;
+	margin-top:0;
+}
+.welkom {
+	margin-left:10%;
+	width:800px;
+	background-color:#c0dffd;
+	padding-left:10px;
+	padding-top:10px;
+}
+.welkom h2 {
+}
+.footer {
+	clear: both;
+	height:50px;
+	background-color:#3366cc;
+	width:100%;
+}
+.footer p {
+	padding-top:5px;
+	padding-left:10px;
+	color:#ffcc00;
+}
+.footer, .push {
+	height: 50px; 
+}
+.nieuws {
+	float:left;
+	margin-left:10%;
+	width:350px;
+	background-color:#c0dffd;
+	padding-left:10px;
+	padding-top:10px;
+}
+.nieuws h2 {
+	margin-left:10px;
+}
+.links {
+	float:left;
+	margin-left:10%;
+	width:400px;
+	background-color:#c0dffd;
+	padding-left:10px;
+	padding-top:10px;
+}
+.links h2 {
+	margin-left:10px;
+}
